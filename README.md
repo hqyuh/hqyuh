@@ -3,10 +3,10 @@
 #### 🌱 My favorite sports are Football and Coding
 #### 📫 How to reach me **hoquanghuy0123@gmail.com**
 
-### Languages and Tools
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,nest,postgres,mongodb,tailwind,vscode)](https://skillicons.dev)<br/>
-### Besides, I also know how to use 
-[![SkillIcons](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)<br/>
+### Languages & frameworks
+[![SkillIcons](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nest,tailwind,html,css)](https://skillicons.dev)<br/>
+### Databases
+[![SkillIcons](https://skillicons.dev/icons?i=postgres,mongodb,redis)](https://skillicons.dev)<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
