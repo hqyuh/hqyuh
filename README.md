@@ -4,7 +4,7 @@
 #### 📫 How to reach me **hoquanghuy0123@gmail.com**
 
 ### Languages and Tools
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,nest,postgres,mongodb,vscode)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,nest,postgres,mongodb,tailwind,vscode)](https://skillicons.dev)<br/>
 ### Besides, I also know how to use 
 [![SkillIcons](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)<br/>
 
