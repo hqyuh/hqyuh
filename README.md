@@ -1,6 +1,6 @@
 ### Hi there 👋
-####  I'm Huy - I'm a Fullstack developer
-#### 🌱 I’m currently learning **NextJS**
+####  I'm Pixel - I'm a Fullstack developer
+#### 🌱 My favorite sports are Football and Coding
 #### 📫 How to reach me **hoquanghuy0123@gmail.com**
 
 ### Languages and Tools
