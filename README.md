@@ -7,11 +7,11 @@
 ## Databases
 [![SkillIcons](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](https://skillicons.dev)<br/>
 ## Tools
-[![SkillIcons](https://skillicons.dev/icons?i=docker,git,githubactions,gitlab,linux,vscode,nginx,notion,vite)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=docker,git,githubactions,linux,vscode,nginx,notion,vite)](https://skillicons.dev)<br/>
 ## Cloud
 [![SkillIcons](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)<br/>
 ### In addition, I can use
-[![SkillIcons](https://skillicons.dev/icons?i=java,go,spring,elasticsearch,kafka)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)<br/>
 
 <h3 align="left">Connect with me:</h3>
  <a href="mailto:hoquanghuy0123@gmail.com" target="_blank">
